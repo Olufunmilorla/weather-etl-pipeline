@@ -100,21 +100,21 @@ The analysis included:
 - Highest Humidity
 - Weather Condition Distribution
 
-### Visualizations were created using Matplotlib to compare:
+## Visualizations were created using Matplotlib to compare:
 
-## Temperature Comparison
+### Temperature Comparison
 
 ![Temperature Comparison](https://drive.google.com/file/d/1ZQvlyle0KpDL5dycSqUBNsBOid1SujZo/view?usp=sharing)
 
-## Humidity Comparison
+### Humidity Comparison
 
 ![Humidity Comparison](https://drive.google.com/file/d/1mqfR5F0bnbtjq2cuhz3jlKO7qo9biZ80/view?usp=sharing)
 
-## Wind Speed Comparison
+### Wind Speed Comparison
 
 ![Wind Speed Comparison](https://drive.google.com/file/d/1P59K3Hp8B9KPhQqKcVxFvuP9cZzY-8jX/view?usp=sharing)
 
-## Weather Condition Distribution
+### Weather Condition Distribution
 
 ![Weather Conditions](https://drive.google.com/file/d/1E3metXSQnCT_aJt0LbFmLz-mDTrL9yH4/view?usp=sharing)
 
