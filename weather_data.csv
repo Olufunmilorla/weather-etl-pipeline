@@ -1,0 +1,6 @@
+city,temperature_c,humidity_pct,condition,wind_speed_mps,datetime
+Lagos,26.55,79,overcast clouds,3.55,2026-07-19 16:48:03
+Ibadan,25.08,87,overcast clouds,1.68,2026-07-19 16:48:06
+Umuahia,26.92,81,overcast clouds,2.32,2026-07-19 16:48:09
+Jos,24.82,61,broken clouds,2.23,2026-07-19 16:44:02
+Abuja,27.07,75,overcast clouds,1.19,2026-07-19 16:48:18
