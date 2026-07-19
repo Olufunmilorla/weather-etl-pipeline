@@ -101,27 +101,14 @@ The analysis included:
 - Weather Condition Distribution
 
 Visualizations were created using Matplotlib to compare:
-
-### Temperature Comparison
-
-![Temperature Comparison](images/temperature_comparison.png)
-
-### Humidity Comparison
-
-![Humidity Comparison](images/humidity_comparison.png)
-
-### Wind Speed Comparison
-
-![Wind Speed Comparison](images/wind_speed_comparison.png)
-
-### Weather Condition Distribution
-
-![Weather Conditions](images/weather_conditions.png)
-
+Temperature by City
+- Humidity by City
+- Wind Speed by City
+- Weather Conditions
+  
 ## 🎥 Project Demo
 
 A short demonstration of the ETL pipeline is available here:
-
 - **Google Drive:** https://drive.google.com/file/d/14K9NUNRQVY41nlM4fTJhZGZRPnp7JNWx/view?usp=sharing
 
 ---
