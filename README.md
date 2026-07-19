@@ -7,7 +7,7 @@ A simple ETL pipeline built with Python that extracts real-time weather data fro
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-A simple **ETL (Extract, Transform, Load)** pipeline built with Python using real-time weather data from the **OpenWeather API**. This project was completed as part of the **AnalystLab Africa Data Analytics Internship (Batch B) – Week 7** to demonstrate API integration, data transformation, storage, and basic exploratory data analysis.
+A simple **ETL (Extract, Transform, Load)** pipeline built with Python using real-time weather data from the **OpenWeather API**. This project was completed as part of the **AnalystLab Africa Data Analytics Internship (Batch B)  Week 7** to demonstrate API integration, data transformation, storage, and basic exploratory data analysis.
 
 ---
 
