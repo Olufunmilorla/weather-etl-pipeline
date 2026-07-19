@@ -1,4 +1,4 @@
-# weather-etl-pipeline-
+# weather-etl-pipeline
 A simple ETL pipeline built with Python that extracts real-time weather data from the OpenWeather API, transforms it using Pandas, and loads it into CSV, Excel, and SQLite formats. Includes basic exploratory analysis and visualizations comparing weather across 5 Nigerian cities.
 # 🌦️ Week 7: Weather Data ETL Pipeline
 
