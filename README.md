@@ -104,10 +104,6 @@ Visualizations were created using Matplotlib to compare:
 
 ### Temperature Comparison
 
-![Temperature Comparison](## 📈 Sample Visualizations
-
-### Temperature Comparison
-
 ![Temperature Comparison](https://drive.google.com/file/d/1ZQvlyle0KpDL5dycSqUBNsBOid1SujZo/view?usp=sharing)
 
 ### Humidity Comparison
