@@ -122,7 +122,7 @@ The analysis included:
 ## 🎥 Project Demo
 
 A short demonstration of the ETL pipeline is available here:
-- (**Google Drive:**)(https://drive.google.com/file/d/14K9NUNRQVY41nlM4fTJhZGZRPnp7JNWx/view?usp=sharing)
+- **Google Drive:**(https://drive.google.com/file/d/14K9NUNRQVY41nlM4fTJhZGZRPnp7JNWx/view?usp=sharing)
 
 ---
 
